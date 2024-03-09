@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\manal_prelim.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\manal_prelim.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb

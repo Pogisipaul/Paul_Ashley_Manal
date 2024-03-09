@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Grade System\Grade System\bin\Debug\Grade System.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Grade System\Grade System\obj\Debug\Grade System.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Grade System\Grade System\obj\Debug\Grade_System.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Grade System\Grade System\obj\Debug\Grade_System.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Grade System\Grade System\obj\Debug\Grade System.vbproj.GenerateResource.Cache
